@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @valeriuv
-- 👀 I’m interested in Python, Django, Javascript
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in Python, Django, Javascript.
+- 🌱 I’m currently learning Pyhton, Django, Javascript.
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
